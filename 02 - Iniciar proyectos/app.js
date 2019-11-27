@@ -13,7 +13,6 @@ function datosCompuestos(){
     };
 
     console.log(curso.tema)
-
 }
 
 datosSimples();
