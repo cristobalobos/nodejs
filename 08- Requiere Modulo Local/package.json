@@ -1,0 +1,16 @@
+{
+  "name": "prueba1",
+  "version": "1.0.0",
+  "description": "Esto es un proyecto de prueba para importar internos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "auditar": "npm audit && node app.js"
+  },
+  "author": "cristobal lobos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0"
+  }
+}
